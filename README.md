@@ -24,3 +24,13 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+Cupcake app Overview
+=================================
+
+<img src="https://user-images.githubusercontent.com/92260200/141758844-90af1c19-c584-494c-bc7a-a5ea2ad677c5.png" alt="Screenshot" width="350"/> <img src="https://user-images.githubusercontent.com/92260200/141758851-ca54cc05-973a-4f10-84bf-6e0f8af191a4.png" alt="Screenshot" width="350"/>
+
+<img src="https://user-images.githubusercontent.com/92260200/141758853-e55304b7-91d0-4d61-8215-400cf6705fdd.png" alt="Screenshot" width="350"/> <img src="https://user-images.githubusercontent.com/92260200/141758855-ec2ba244-e18e-4c78-8e70-41b79c055bb4.png" alt="Screenshot" width="350"/>
+
+
